@@ -24,3 +24,4 @@ Este projeto é de uso livre para fins educativos.
 
 Esse README já traz ícones, seções bem organizadas e links guiados para aprofundar cada parte.  
 
+<img width="640" height="391" alt="Y7kDmdx9Pk" src="https://github.com/user-attachments/assets/d206887c-fc4a-4326-bdef-0de7e038efad" />
